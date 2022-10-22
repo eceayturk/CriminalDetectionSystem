@@ -1,0 +1,16 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
+ */
+package Interfaces;
+
+/**
+ *
+ * @author ebrue
+ */
+public interface MuscleStrength {
+    
+    public static final int MAX_YIELD = 100;
+    
+   
+}
